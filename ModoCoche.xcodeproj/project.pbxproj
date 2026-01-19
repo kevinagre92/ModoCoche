@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 77;
+	objectVersion = 56;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -116,7 +116,7 @@
 			packageReferences = (
 				5258A7DA2F16C3CE001FD2FD /* XCRemoteSwiftPackageReference "ios-sdk" */,
 			);
-			preferredProjectObjectVersion = 77;
+			preferredProjectObjectVersion = 56;
 			productRefGroup = 5258A7CB2F1688BC001FD2FD /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
